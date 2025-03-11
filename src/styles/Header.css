@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header .logo {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+  }
